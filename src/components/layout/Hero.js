@@ -18,7 +18,7 @@ export default function Hero() {
         </p>
         <div className="flex gap-4 text-sm">
           <button className="bg-primary justify-center uppercase items-center flex gap-2 text-white px-4 py-2 rounded-full">
-            <Link href={"/cart"}>Order now</Link>
+            <Link href={"/menu"}>Order now</Link>
             <Right />
           </button>
           <button className="flex items-center border-0 gap-2 py-2 text-gray-600 font-semibold">
