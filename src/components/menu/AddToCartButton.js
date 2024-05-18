@@ -1,5 +1,4 @@
 import React from "react";
-import FlyingButton from "react-flying-item";
 
 export default function AddToCartButton({
   hasSizesOrExtras,

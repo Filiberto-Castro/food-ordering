@@ -3,7 +3,6 @@ import { CartContext } from "../AppContext";
 import toast from "react-hot-toast";
 import MenuItemTile from "./MenuItemTile";
 import Image from "next/image";
-import FlyingButton from "react-flying-item";
 
 export default function MenuItem(menuItem) {
   const { image, name, description, basePrice, sizes, extraIngredientPrices } =
